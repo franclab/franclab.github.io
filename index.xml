@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sobre mí on Francisco Labate</title>
+    <link>https://franclab.github.io/</link>
+    <description>Recent content in Sobre mí on Francisco Labate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Jul 2021 23:49:22 -0300</lastBuildDate><atom:link href="https://franclab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Script en python para calcular bobinados de AC</title>
+      <link>https://franclab.github.io/post/acw-calc/</link>
+      <pubDate>Thu, 15 Jul 2021 23:49:22 -0300</pubDate>
+      
+      <guid>https://franclab.github.io/post/acw-calc/</guid>
+      <description>(*) LINK ACW-CALC Cálculo de ranura de paso fraccionado Dado un $q$ fraccional, calcula sus parámetros relacionados:
+$$ q = \frac{N}{\beta} = \frac{a + b}{\beta} $$
+ Determina el grupo recurrente (unidad) en $\beta$ polos. Si el acortamiento no se indica, se selecciona el que más se aproxime al 83% (~5/6). Calcula sus respectivos factores de acortamiento $kp$ y distribución $kd$ para distintos valores de orden de armónica $n$ impar.  Calculo de sucesión de ranuras La estrella de la segunda capa consiste en sumarle a la sucesión el paso de bobina elegido (restándole $3N$ si es mayor a esa cantidad).</description>
+    </item>
+    
+  </channel>
+</rss>
